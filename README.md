@@ -39,4 +39,4 @@
     현재 사람이 해당 장소에 있음으로 간주하여 지정된 서비스를 제공한다.
  
  # Ⅶ. 구현 영상
- *    Link : 
+ *    Link : https://youtu.be/hSL9juwSpLo
